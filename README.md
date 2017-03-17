@@ -24,3 +24,13 @@ For more details, check out the [Heroku-specific deploy documentation](http://ww
 * Upgrading beyond Heroku's free plan
 * Deploying Metabase version updates to Heroku
 * Troubleshooting
+=======
+Heroku Buildpack for Metabase
+
+Add the following to your app.json:
+
+"buildpacks": [
+  {
+    "url": "https://github.com/leenasn/metabase-buildpack"
+  }
+]
