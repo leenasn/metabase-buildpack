@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # NOTE: the Heroku Buildpack release artifact will no longer be maintained by Metabase, as we strongly encourage everyone to either deploy in Heroku via containers or fork this repository. Please see announcement https://www.metabase.com/releases/Metabase-0.45
+=======
+[![Metabase Logo](http://www.metabase.com/images/logo.svg)](http://www.metabase.com/)
 
 Heroku Buildpack for Metabase
 
@@ -25,6 +26,9 @@ For more details, check out the [Heroku-specific deploy documentation](http://ww
 * Deploying Metabase version updates to Heroku
 * Troubleshooting
 =======
+=======
+# NOTE: the Heroku Buildpack release artifact will no longer be maintained by Metabase, as we strongly encourage everyone to either deploy in Heroku via containers or fork this repository. Please see announcement https://www.metabase.com/releases/Metabase-0.45
+
 Heroku Buildpack for Metabase
 
 Add the following to your app.json:
